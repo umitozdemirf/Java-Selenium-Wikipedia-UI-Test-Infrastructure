@@ -1,1 +1,4 @@
-./idea
+.idea
+/target
+wikipedia-UI.iml
+Exploratory Chargitter/.DS_Store
